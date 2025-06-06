@@ -87,6 +87,8 @@
 - [第4章](./Vol.3/chapter04.md)
 - [第5章](./Vol.3/chapter05.md)
 - [第6章](./Vol.3/chapter06.md)
+- [第7章](./Vol.3/chapter07.md)
+- [第8章](./Vol.3/chapter08.md)
 
 ## 🧩 世界观简述
 
